@@ -16,7 +16,8 @@ else:
     
 
 
-
+# Time Complexity = O(log10(N))
+# Space Complecity = O(1)
 
 
 
