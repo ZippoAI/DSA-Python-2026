@@ -1,9 +1,17 @@
-n = 1234
-num = n
-ld = 0
+a = 12321
+num = a
+result = 0
+while num>0:
+    ld = num%10
+    result = result*10 + ld
+    num = num//10
 
-while n>0:
-    num = num[-1]
-    ld = num*10
+ot = [True if result==a else False]
+
+
+print(ot)
+
+
+
+
     
-
