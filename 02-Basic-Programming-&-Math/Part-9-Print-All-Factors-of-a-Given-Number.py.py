@@ -15,7 +15,7 @@ print()
 print('Brute Solution')
 print(store)
 
- 
+  
 # method 2
 
 n = 10
